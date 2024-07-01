@@ -1,14 +1,14 @@
 {
-  "guildID": "YOUR_GUILD_ID",
+  "guildID": "1255143473007431690",
   "channels": {
-    "channelLog": "CHANNEL_ID",
+    "channelLog": "1257207762174087169",
     "emojiLog": "CHANNEL_ID",
-    "banLog": "CHANNEL_ID",
-    "unbanLog": "CHANNEL_ID",
-    "joinLog": "CHANNEL_ID",
+    "banLog": "1257207894525607976",
+    "unbanLog": "1257207894525607976",
+    "joinLog": "1257198012820881428",
     "leaveLog": "CHANNEL_ID",
-    "messageLog": "CHANNEL_ID",
-    "voiceLog": "CHANNEL_ID"
+    "messageLog": 1257207728028516425",
+    "voiceLog": "1257208168233308264"
   },
-  "owner": "975898528859697182"
+  "owner": "1074763726856654898"
 }
