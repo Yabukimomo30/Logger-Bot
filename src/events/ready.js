@@ -34,7 +34,7 @@ module.exports = async (client) => {
 
   setInterval(() => {
     client.user.setPresence({
-      activities: [{ name: `Logs | Made by @deemdev`, type: ActivityType.Watching }],
+      activities: [{ name: `Logs | Made by @Earl`, type: ActivityType.Watching }],
       status: "online",
     });
   }, 60000);
